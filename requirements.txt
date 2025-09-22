@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+yfinance
+numpy
+scikit-learn
+matplotlib
+fastapi
+uvicorn
